@@ -26,4 +26,4 @@ This is good
 
 The site was build using [Github Pages](www.google.com)
 
-[Contribution guidelines for this project](dev/first.txt)
+[Contribution guidelines for this project](../first.txt)
